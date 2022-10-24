@@ -1,20 +1,11 @@
 <?php
-/*
- *
- * -------------------------------------------------------------
- * Copyright (c) 2020
- * -All Rights Preserved By Ariful Islam
- * -If you have any query then knock me at
- * arif98741@gmail.com
- * See my profile @ https://github.com/arif98741
- * ----------------------------------------------------------------
- */
 
-namespace Xenon\NagadApi;
+
+namespace Radon\NagadApi;
 
 
 use Exception;
-use Xenon\NagadApi\lib\Key;
+use Radon\NagadApi\lib\Key;
 
 /**
  * Class Base

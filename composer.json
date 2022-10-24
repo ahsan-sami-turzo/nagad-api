@@ -1,10 +1,10 @@
 {
-  "name": "xenon/nagad-api",
+  "name": "radon/nagad-api",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Xenon\\NagadApi\\": "src/"
+      "Radon\\NagadApi\\": "src/"
     },
     "psr-0": {
       "UnitTestFiles": ""

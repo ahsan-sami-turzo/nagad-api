@@ -1,20 +1,11 @@
 <?php
-/*
- *
- * -------------------------------------------------------------
- * Copyright (c) 2020
- * -All Rights Preserved By Ariful Islam
- * -If you have any query then knock me at
- * arif98741@gmail.com
- * See my profile @ https://github.com/arif98741
- * ----------------------------------------------------------------
- */
 
-namespace Xenon\NagadApi;
+
+namespace Radon\NagadApi;
 
 use Carbon\Carbon;
 use Exception;
-use Xenon\NagadApi\Exception\ExceptionHandler;
+use Radon\NagadApi\Exception\ExceptionHandler;
 
 /**
  * This is the main performer that means request handler for entire nagadApi

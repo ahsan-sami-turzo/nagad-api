@@ -4,7 +4,7 @@ Nagad is a Bangladeshi mobile banking service
 # Installation Process
 
 ```bash
-composer require xenon/nagad-api
+composer require radon/nagad-api
 ```
 
 # Example Code
@@ -13,8 +13,8 @@ composer require xenon/nagad-api
 
 <?php
 
-use Xenon\NagadApi\Helper;
-use Xenon\NagadApi\Base;
+use Radon\NagadApi\Helper;
+use Radon\NagadApi\Base;
 
 require 'vendor/autoload.php';
 

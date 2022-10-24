@@ -1,23 +1,14 @@
 <?php
-/*
- *
- * -------------------------------------------------------------
- * Copyright (c) 2020
- * -All Rights Preserved By Ariful Islam
- * -If you have any query then knock me at
- * arif98741@gmail.com
- * See my profile @ https://github.com/arif98741
- * ----------------------------------------------------------------
- */
 
-namespace Xenon\NagadApi;
+
+namespace Radon\NagadApi;
 
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
-use Xenon\NagadApi\Exception\ExceptionHandler;
-use Xenon\NagadApi\Exception\NagadPaymentException;
-use Xenon\NagadApi\lib\Key;
+use Radon\NagadApi\Exception\ExceptionHandler;
+use Radon\NagadApi\Exception\NagadPaymentException;
+use Radon\NagadApi\lib\Key;
 
 class Helper extends Key
 {

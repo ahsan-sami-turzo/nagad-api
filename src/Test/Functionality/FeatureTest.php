@@ -1,6 +1,6 @@
 <?php
 
-namespace Xenon\NagadApi\Test\Functionality;
+namespace Radon\NagadApi\Test\Functionality;
 
 use Exception;
 use PHPUnit\Framework\TestCase;
